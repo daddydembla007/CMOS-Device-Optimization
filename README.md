@@ -7,6 +7,7 @@ The work includes the following steps:-
 (b) Validate the analytical model through mixed-mode simulations to ensure accuracy and reliability under various operating conditions.
 
 Further Work:-
+
 (a) Build a deep neural network (DNN)-based forward model to predict current and capacitance values for given inverter design parameters (W, L, N).
 
 (b) Implement advanced optimization techniques such as grid search, Bayesian optimization, or evolutionary algorithms to achieve efficient inverse design for the desired power and delay requirements. 
